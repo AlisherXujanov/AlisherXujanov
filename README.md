@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **Fullstack projects**
 
-- 🌱 I’m currently learning **Mobile development**
-
-- 🤝 I’m looking for help with **Cyber Security Aspects in React, Vue**
+- 🌱 I’m currently learning AI 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlisherXujanov?tab=repositories](https://github.com/AlisherXujanov?tab=repositories)
 
-- 💬 Ask me about **Django, React, Vue**
+- 💬 Ask me about **Anything related to programming**
 
 - 📫 How to reach me **alisherxujanov163@gmail.com**
 
