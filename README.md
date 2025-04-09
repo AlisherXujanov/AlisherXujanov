@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alisherxujanov163@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vQRB0TeHipQqgpJtTUCvVYiTd6-tK74I5kw4ALiHofGeb3Jf08dw8kBcilS0rDoNsG6yCC6Xa6P9Mva/pub](https://docs.google.com/document/d/e/2PACX-1vQRB0TeHipQqgpJtTUCvVYiTd6-tK74I5kw4ALiHofGeb3Jf08dw8kBcilS0rDoNsG6yCC6Xa6P9Mva/pub)
+- 📄 Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
