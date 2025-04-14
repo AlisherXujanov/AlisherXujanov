@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **alisherxujanov163@gmail.com**
 
-- 📄 Resume
+- 📄 [Resume](https://alisherxujanov.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
