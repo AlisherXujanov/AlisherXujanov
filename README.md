@@ -65,12 +65,16 @@ I am a **Senior Fullstack Developer** based in **Uzbekistan** with over **7 year
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisherxujanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" height="180" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisherxujanov&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ea&fire=00f2ea&currStreakNum=00f2ea" alt="Streak Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisherxujanov&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ea&icon_color=00f2ea" height="180" alt="languages graph" />
-</div>
+  <br/>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alisherxujanov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
+  </a>
 
-<div align="center">
+  <br/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisherxujanov&bg_color=0D1117&color=00f2ea&line=00f2ea&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
