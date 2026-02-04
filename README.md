@@ -38,6 +38,8 @@ I'm a **Senior Fullstack Developer** with **7+ years of experience** in building
 **Full-time Positions:**
 - 🏢 **Samarkand IT Park** - Fullstack Developer
 - 🏢 **Paragon Company inc.** - Senior Developer
+- 🏢 **Code school Samarkand** - IT Teacher and mentor
+- 🏢 **WePro Samarkand** - IT Teacher
 
 **Freelance Platforms:**
 - 💼 UpWork
