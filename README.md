@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=netlify&logoColor=00f2ea" alt="Portfolio" />
   </a>
   <a href="https://celestial.uz">
-    <img src="./logo-png-white.png" height="28" alt="Celestial" />
+    <img src="./logo-png-black.png" height="28" alt="Celestial" />
   </a>
 </div>
 
@@ -61,7 +61,7 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
 
 <div align="center">
   <a href="https://celestial.uz">
-    <img src="./logo-png-white.png" width="120" alt="Celestial logo" />
+    <img src="./logo-png-black.png" width="120" alt="Celestial logo" />
   </a>
 </div>
 
