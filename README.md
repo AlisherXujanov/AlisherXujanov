@@ -17,8 +17,7 @@
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=netlify&logoColor=00f2ea" alt="Portfolio" />
   </a>
   <a href="https://celestial.uz">
-    <img src="./logo-png-black.png" height="28" alt="Celestial" />
-    <b>Celestial</b>
+    <img src="./celestial-badge.png" height="28" alt="Celestial" />
   </a>
 </div>
 
