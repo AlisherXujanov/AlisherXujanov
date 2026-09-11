@@ -13,11 +13,11 @@
   <a href="mailto:alisherxujanov163@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://alisherxujanov.netlify.app/">
+  <a href="https://alisher-khujanov-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-20232A?style=for-the-badge&logo=netlify&logoColor=00f2ea" alt="Portfolio" />
   </a>
   <a href="https://celestial.uz">
-    <img src="https://img.shields.io/badge/Celestial-0D1117?style=for-the-badge&logo=vercel&logoColor=00f2ea" alt="Celestial" />
+    <img src="./logo-png-white.png" height="28" alt="Celestial" />
   </a>
 </div>
 
@@ -27,7 +27,7 @@
 
 Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building production systems. I design backends in Python/Django and ship responsive frontends with React/Next.js — including AI-integrated platforms and high-security government workflows.
 
-- **Working on:** [Celestial](https://celestial.uz) — AI-powered education platform (unit-school)
+- **Working on:** [Celestial](https://celestial.uz) — AI-powered education platform
 - **Learning:** Advanced LLM integration & cloud-native DevOps
 - **Ask me about:** React, Django, AWS, and system design
 - **Languages:** Uzbek, English, Russian, Turkish
@@ -59,21 +59,13 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
 
 ### Flagship — [Celestial](https://celestial.uz)
 
-AI-powered education platform (unit-school) for personalized learning paths. Live at **[celestial.uz](https://celestial.uz)**.
-
-### Open source
-
 <div align="center">
-  <a href="https://github.com/AlisherXujanov/Alisher_Quiz.io">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AlisherXujanov&repo=Alisher_Quiz.io&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Alisher_Quiz.io" />
-  </a>
-  <a href="https://github.com/AlisherXujanov/FullFeatured-Flask-Web">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AlisherXujanov&repo=FullFeatured-Flask-Web&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="FullFeatured-Flask-Web" />
-  </a>
-  <a href="https://github.com/AlisherXujanov/e-commerce">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=AlisherXujanov&repo=e-commerce&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="e-commerce" />
+  <a href="https://celestial.uz">
+    <img src="./logo-png-white.png" width="120" alt="Celestial logo" />
   </a>
 </div>
+
+AI-powered education platform for personalized learning paths. Live at **[celestial.uz](https://celestial.uz)**.
 
 ### Selected private / client work
 
