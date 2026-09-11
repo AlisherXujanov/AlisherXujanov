@@ -51,14 +51,6 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlisherXujanov&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ea&fire=00f2ea&currStreakNum=00f2ea" alt="Streak Stats" />
-
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlisherXujanov/AlisherXujanov/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlisherXujanov/AlisherXujanov/output/github-snake.svg?v=2" />
-    <img src="https://raw.githubusercontent.com/AlisherXujanov/AlisherXujanov/output/github-snake-dark.svg?v=2" alt="Contribution graph" width="100%" />
-  </picture>
 </div>
 
 ---
