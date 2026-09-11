@@ -18,6 +18,7 @@
   </a>
   <a href="https://celestial.uz">
     <img src="./logo-png-black.png" height="28" alt="Celestial" />
+    <b>Celestial</b>
   </a>
 </div>
 
@@ -62,6 +63,8 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
 <div align="center">
   <a href="https://celestial.uz">
     <img src="./logo-png-black.png" width="120" alt="Celestial logo" />
+    <br/>
+    <b>Celestial</b>
   </a>
 </div>
 
