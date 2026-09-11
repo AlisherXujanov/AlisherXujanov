@@ -61,8 +61,7 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
 
 <div align="center">
   <a href="https://celestial.uz">
-    <img src="./logo-png-white.png" height="48" alt="Celestial" />
-    &nbsp;<b>Celestial</b>
+    <img src="./celestial-featured.png" alt="Celestial" height="72" />
   </a>
   <br/>
   <br/>
