@@ -65,17 +65,16 @@ I am a **Senior Fullstack Developer** based in **Uzbekistan** with over **7 year
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisherxujanov&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ea&fire=00f2ea&currStreakNum=00f2ea" alt="Streak Stats" />
-  
-  <br/>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alisherxujanov&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
-  </a>
+  <img src="https://github-stats-extended.vercel.app/api?username=AlisherXujanov&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlisherXujanov&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="170" />
 
   <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alisherxujanov&bg_color=0D1117&color=00f2ea&line=00f2ea&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlisherXujanov&theme=tokyonight&hide_border=true&background=0D1117&ring=00f2ea&fire=00f2ea&currStreakNum=00f2ea" alt="Streak Stats" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/AlisherXujanov/AlisherXujanov/output/github-snake.svg" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
