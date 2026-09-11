@@ -57,17 +57,18 @@ Senior Fullstack Developer based in **Uzbekistan** with **7+ years** building pr
 
 ## Featured Work
 
-### Flagship — [Celestial](https://celestial.uz)
+### Flagship
 
 <div align="center">
   <a href="https://celestial.uz">
-    <img src="./logo-png-black.png" width="120" alt="Celestial logo" />
-    <br/>
-    <b>Celestial</b>
+    <img src="./logo-png-white.png" height="48" alt="Celestial" />
+    &nbsp;<b>Celestial</b>
   </a>
+  <br/>
+  <br/>
+  AI-powered education platform for personalized learning paths.<br/>
+  Live at <b><a href="https://celestial.uz">celestial.uz</a></b>
 </div>
-
-AI-powered education platform for personalized learning paths. Live at **[celestial.uz](https://celestial.uz)**.
 
 ### Selected private / client work
 
